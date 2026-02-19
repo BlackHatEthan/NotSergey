@@ -1,6 +1,6 @@
 // NotSergey.cpp - Wiper disguised as ransomware, inspired by NotPetya
 // Compile: cl NotSergey.cpp /EHsc /link user32.lib gdi32.lib winmm.lib ole32.lib advapi32.lib shell32.lib
-// or g++ NotSergey.cpp -o NotSergey.exe -luser32 -lgdi32 -lwinmm -lole32 -ladvapi32 -lshell32 -mwindows -std=c++17
+// or g++ NotSergey.cpp -o NotSergey.exe -luser32 -lgdi32 -lwinmm -lole32 -ladvapi32 -lshell32 -mwindows -std=c++17 
 
 
 
