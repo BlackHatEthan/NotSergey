@@ -63,3 +63,5 @@ MSVC (`cl.exe`) or GCC (`g++`) with C++17 support.
 
 ```bash
 g++ NotSergey.cpp -o NotSergey.exe -luser32 -lgdi32 -lwinmm -lole32 -ladvapi32 -lshell32 -mwindows -std=c++17
+
+## THIS PROJECT SHOULD BE USED FOR EDUCATIONAL PURPOSES ONLY, THE AUTHOR IS NOT REPSONSIBLE FOR ANY HARM CAUSED BY THIS CODE - DISCLAIMERS HAVE BEEN GIVEN AND YOU HAVE BEEN WARNED.
